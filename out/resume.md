@@ -51,7 +51,7 @@ Erik is a freelance web developer living in Lancaster, Pennsylvania. He is also 
 
 ## PROJECTS
 
-### *Lead Developer*, [The Navigators](https://navigaors.org) (??? — Present)
+### *Lead Developer*, [The Navigators](https://navigators.org) (??? — Present)
 
 
 This website utilizes multiple custom post types and page templates to allow for the client to showcase their content. I built a custom integration between the website and the client’s Human Resources software using the WordPress REST API to create a directory for the over 3,000 worldwide staff. Another integration allows for a map showcasing their hundreds of global ministry locations. Combining custom integrations with off-the-shelf plugins meant I was able to save weeks of development time while still meeting the client’s needs.
@@ -81,5 +81,15 @@ This plugin became the un-official official plugin for Faithlife Sermons, an aud
 
 
 
+
+## REFERENCES
+
+### *Josh Dougherty*, Partner at A Brave New (professional)
+Phone: (360) 204-4655
+Email: josh@abravenew.com
+
+### *John Ware*, Former Project Manager at Masterworks (professional)
+Phone: (206) 696-4992
+Email: john.ware@mac.com
 
 

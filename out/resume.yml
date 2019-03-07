@@ -115,7 +115,7 @@ projects:
   -
     title: 'The Navigators'
     category: 'Website Development'
-    url: 'https://navigaors.org'
+    url: 'https://navigators.org'
     role: 'Lead Developer'
     summary: 'This website utilizes multiple custom post types and page templates to allow for the client to showcase their content. I built a custom integration between the website and the client’s Human Resources software using the WordPress REST API to create a directory for the over 3,000 worldwide staff. Another integration allows for a map showcasing their hundreds of global ministry locations. Combining custom integrations with off-the-shelf plugins meant I was able to save weeks of development time while still meeting the client’s needs.'
     keywords:
@@ -150,3 +150,30 @@ projects:
     keywords:
       - WordPress
       - 'Custom Plugin'
+references:
+  -
+    name: 'Josh Dougherty'
+    role: 'Partner at A Brave New'
+    category: professional
+    contact:
+      -
+        label: Phone
+        category: phone
+        value: '(360) 204-4655'
+      -
+        label: Email
+        category: email
+        value: josh@abravenew.com
+  -
+    name: 'John Ware'
+    role: 'Former Project Manager at Masterworks'
+    category: professional
+    contact:
+      -
+        label: Phone
+        category: phone
+        value: '(206) 696-4992'
+      -
+        label: Email
+        category: email
+        value: john.ware@mac.com

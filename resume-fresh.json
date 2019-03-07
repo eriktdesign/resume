@@ -204,5 +204,12 @@
         }
       ]
     }
+  ],
+  "testimonials": [
+    {
+      "name": "Jacob Smith",
+      "quote": "Erik is amazing at taking designs and getting to responsive, semantic HTML. Every designer we've both worked with, if they're honest, would rather Erik code their mark-up than me!",
+      "category": "technical"
+    }
   ]
 }

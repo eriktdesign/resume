@@ -84,6 +84,10 @@ This plugin became the un-official official plugin for Faithlife Sermons, an aud
 
 ## REFERENCES
 
+### *Jason Campbell*, Development Manager at Masterworks (Professional)
+Phone: (503) 881-5177
+Email: jcampbell@masterworks.com
+
 ### *Josh Dougherty*, Partner at A Brave New (professional)
 Phone: (360) 204-4655
 Email: josh@abravenew.com

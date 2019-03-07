@@ -171,6 +171,23 @@
   ],
   "references": [
     {
+      "name": "Jason Campbell",
+      "role": "Development Manager at Masterworks",
+      "category": "Professional",
+      "contact": [
+        {
+          "label": "Phone",
+          "category": "phone",
+          "value": "(503) 881-5177"
+        },
+        {
+          "label": "Email",
+          "category": "email",
+          "value": "jcampbell@masterworks.com"
+        }
+      ]
+    },
+    {
       "name": "Josh Dougherty",
       "role": "Partner at A Brave New",
       "category": "professional",

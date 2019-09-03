@@ -23,6 +23,7 @@ Contract Web Developer, Masterworks (2013-09 — Present)
 - Led development team in the adoption of version control, agile workflows, and maintenance routines.
 - Directed the work of an offshore development team on complex projects integrating multiple systems powering a client website, and provided oversight and code quality review.
 - Built fully custom WordPress websites that integrate with donation systems, CRMs, human resource software, email campaigns, and social media platforms.
+- Developed a Woocommerce-based donation system for a global non-profit that integrates with their CRM and involved extensive custom Woocommerce functionality. This involved building a custom payment processor plugin as well as integration of numerous supporting plugins.
 - Responded to other development needs, including email campaigns, landing pages, custom plugins, ads, split testing, and the development of emergency campaigns in response to natural disasters.
 
 Principal, Erik Teichmann Design (2008-10 — Present)

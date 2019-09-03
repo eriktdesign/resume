@@ -877,6 +877,21 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed a Woocommerce-based donation system for a global non-profit that integrates with their CRM and involved extensive custom Woocommerce functionality. This involved building a custom payment processor plugin as well as integration of numerous supporting plugins.</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>Responded to other development needs, including email campaigns, landing pages, custom plugins, ads, split testing, and the development of emergency campaigns in response to natural disasters.</w:t></w:r>
     </w:p>
 

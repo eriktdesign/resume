@@ -22,6 +22,15 @@
   },
   "work": [
     {
+      "company": "Inverse Paradox",
+      "website": "https://www.inverseparadox.com",
+      "position": "Web Developer",
+      "startDate": "2019-01-01",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+    {
       "company": "Masterworks",
       "website": "https://masterworks.com",
       "position": "Contract Web Developer",
@@ -97,10 +106,11 @@
       "keywords": [
         "Custom Themes",
         "Custom plugins",
+        "Woocommerce",
         "Block Editor",
         "WordPress REST API",
-        "Woocommerce",
         "Gravity Forms",
+        "Advanced Custom Fields"
         "Yoast",
         "Relevanssi"
       ]
